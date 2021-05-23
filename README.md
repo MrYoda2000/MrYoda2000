@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Mathias. I'm an economics student at SFU
+- I’m interested in econometrics and data science 
+- I’m currently learning quantitative economics, particularly applied predictive models with R and Python
+- 📫 mathias_gausachs@sfu.ca
